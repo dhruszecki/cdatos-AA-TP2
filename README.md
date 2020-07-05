@@ -1,1 +1,5 @@
-AA TP2 Material suplementario
+# AA TP2
+
+
+# Instalar paquetes
+conda install -c conda-forge librosa
