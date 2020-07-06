@@ -2,4 +2,6 @@
 
 
 # Instalar paquetes
-conda install -c conda-forge librosa
+librosa, matplotlib
+
+
